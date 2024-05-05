@@ -14,20 +14,20 @@ The aim of this project is to develop a robust and efficient automated news clas
 
 File descriptions:
 
-`BBC News Train.csv`: This file contains the training set comprising 1,490 records of news articles.
-`BBC News Test.csv`: This file includes the test set consisting of 736 records of news articles.
-`BBC News Sample Solution.csv`: This file provides a sample submission template in the correct format.
+- `BBC News Train.csv`: This file contains the training set comprising 1,490 records of news articles.
+- `BBC News Test.csv`: This file includes the test set consisting of 736 records of news articles.
+- `BBC News Sample Solution.csv`: This file provides a sample submission template in the correct format.
 
 Data fields:
 
-`ArticleId`: A unique identifier assigned to each news article record.
-`Article`: The text content of the news article, including the header and main body.
-`Category`: The category label assigned to the article, indicating its topic or theme. Categories include:
-`Tech`: Articles related to technology and innovation.
-`Business`: Articles focusing on business news, finance, and economics.
-`Sport`: Articles covering sports events, athletes, and competitions.
-`Entertainment`: Articles about entertainment industry news, including movies, music, and celebrities.
-`Politics`: Articles discussing political developments, elections, and government affairs.
+- `ArticleId`: A unique identifier assigned to each news article record.
+- `Article`: The text content of the news article, including the header and main body.
+- `Category`: The category label assigned to the article, indicating its topic or theme. Categories include:
+- `Tech`: Articles related to technology and innovation.
+- `Business`: Articles focusing on business news, finance, and economics.
+- `Sport`: Articles covering sports events, athletes, and competitions.
+- `Entertainment`: Articles about entertainment industry news, including movies, music, and celebrities.
+- `Politics`: Articles discussing political developments, elections, and government affairs.
 
 ---
 
